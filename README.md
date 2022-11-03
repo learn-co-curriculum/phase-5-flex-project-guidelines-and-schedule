@@ -26,6 +26,7 @@ You must meet the following Phase 5 Project Minimum Requirements:
 - Implement something new not taught in the curriculum. (Check in with your
   instructor to ensure the scope of your idea is appropriate.)
 - Implement `useContext` or Redux.
+- Fully deploy and host your project.
 
 ** Please discuss with your instructor if you have any issues aligning these
 requirements with your project.
